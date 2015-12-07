@@ -1,0 +1,33 @@
+[INFO  - 2015-12-03T16:44:27.760Z] GhostDriver - Main - running on port 27672
+[INFO  - 2015-12-03T16:44:31.354Z] Session [204e1b40-99dd-11e5-9388-5719102ce0a1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-03T16:44:31.354Z] Session [204e1b40-99dd-11e5-9388-5719102ce0a1] - page.customHeaders:  - {}
+[INFO  - 2015-12-03T16:44:31.354Z] Session [204e1b40-99dd-11e5-9388-5719102ce0a1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-03T16:44:31.354Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 204e1b40-99dd-11e5-9388-5719102ce0a1
+[ERROR - 2015-12-03T16:44:52.110Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1449161092018
+[ERROR - 2015-12-03T16:45:13.767Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1449161113690
+[INFO  - 2015-12-03T16:45:15.023Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2015-12-03T16:46:18.241Z] GhostDriver - Main - running on port 21011
+[INFO  - 2015-12-03T16:46:18.738Z] Session [604f4ca0-99dd-11e5-9967-edcac02bcfcb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-03T16:46:18.739Z] Session [604f4ca0-99dd-11e5-9967-edcac02bcfcb] - page.customHeaders:  - {}
+[INFO  - 2015-12-03T16:46:18.740Z] Session [604f4ca0-99dd-11e5-9967-edcac02bcfcb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-03T16:46:18.740Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 604f4ca0-99dd-11e5-9967-edcac02bcfcb
+[ERROR - 2015-12-03T16:46:40.171Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1449161200040
+[ERROR - 2015-12-03T16:46:59.668Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1449161219540
+[INFO  - 2015-12-03T16:47:00.735Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2015-12-03T16:48:17.229Z] GhostDriver - Main - running on port 12507
+[INFO  - 2015-12-03T16:48:17.639Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-12-03T16:48:17.639Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.customHeaders:  - {}
+[INFO  - 2015-12-03T16:48:17.640Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-12-03T16:48:17.640Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a72e9c20-99dd-11e5-8f59-a9322c527ac6
+[ERROR - 2015-12-03T16:49:00.947Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2015-12-03T16:49:16.445Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=43e41625218a01ff2241e43b0dafbb130fe6e3fd:1)
+[ERROR - 2015-12-03T16:49:22.390Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2015-12-03T16:49:22.390Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=43e41625218a01ff2241e43b0dafbb130fe6e3fd:1)
+[ERROR - 2015-12-03T16:49:31.031Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2015-12-03T16:49:31.031Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=43e41625218a01ff2241e43b0dafbb130fe6e3fd:1)
+[ERROR - 2015-12-03T16:49:38.789Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2015-12-03T16:49:38.789Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=43e41625218a01ff2241e43b0dafbb130fe6e3fd:1)
