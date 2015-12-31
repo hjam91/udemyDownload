@@ -52,6 +52,9 @@ public class udemyCourseVideo {
     static String cleanName;
     Map<String, String> map = new HashMap<String, String>();
     static String lectureName;
+    static String CourseFolderLocation = udemyMainTest.prop.getProperty("courseFolderLocation");
+   // static String CourseTitleLocation = udemyMainTest.prop.getProperty("courseTitleLocation");
+    //static String CourseURLLocation = udemyMainTest.prop.getProperty("courseURLLocation");
     //Writer  = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(), "UTF-8"));
     // FileWriter writerURL = new FileWriter("C:\\Users\\haroo\\Desktop\\Udemy\\udemyLinks.txt", true);
 //    BufferedWriter writerURL = new BufferedWriter(new FileWriter("C:\\Users\\haroo\\Desktop\\Udemy\\udemyLinks.txt", true));
@@ -91,17 +94,18 @@ public class udemyCourseVideo {
 
         cleanCourseName  = courseName.replaceAll("[ ](?=[ ])|[^-_,A-Za-z0-9 ]+","");
         System.out.println("Checking File");
+        System.out.println("FolderLocation  - : " + CourseFolderLocation);
 
-        File folder = new File("/media/removable/MULTIBOOT/Udemy/"+cleanCourseName);
+        File folder = new File(CourseFolderLocation+cleanCourseName);
 
         if(!(folder.exists())){
             folder.mkdir();
         }
 
-
-        File url = new File("/media/removable/MULTIBOOT/Udemy/"+cleanCourseName+ "/udemyLinks.txt");
+        
+        File url = new File( CourseFolderLocation +cleanCourseName+ "/udemyLinks.txt");
         System.out.println("File Check Good");
-        File title = new File("/media/removable/MULTIBOOT/Udemy/"+cleanCourseName+ "/udemyTitle.txt");
+        File title = new File(CourseFolderLocation+cleanCourseName+ "/udemyTitle.txt");
 
 
 
@@ -178,7 +182,7 @@ public class udemyCourseVideo {
 
                 System.out.println("After Get Text");
                 System.out.println("Clean name Text: "+ lectureName);
-                File path = new File("/media/removable/MULTIBOOT/Udemy/"+ cleanCourseName +"/" + lectureName+".txt");
+                File path = new File(CourseFolderLocation+ cleanCourseName +"/" + lectureName+".txt");
                 BufferedWriter txtOutput = new BufferedWriter(new FileWriter(path));
                 txtOutput.append(text.getText());
                 txtOutput.close();
@@ -210,7 +214,7 @@ public class udemyCourseVideo {
                     System.out.println("Clean name PDF: " + lectureName);
 
                     String actualPDF =   lectureName + ".pdf";
-                    File path = new File("/media/removable/MULTIBOOT/Udemy/"+ cleanCourseName +"/" + actualPDF);
+                    File path = new File(CourseFolderLocation+ cleanCourseName +"/" + actualPDF);
                     System.out.println(getFileSize(website) + "- PDF:  " + cleanCourseName + ":  Download Finished");
                     if(!path.exists()) {
                         FileOutputStream fos = new FileOutputStream(path);
@@ -268,9 +272,9 @@ public class udemyCourseVideo {
     public void DownloadActualFile() throws IOException {
 
         System.out.println("1");
-        File url = new File("/media/removable/MULTIBOOT/Udemy/"+cleanCourseName+ "/udemyLinks.txt");
+        File url = new File(CourseFolderLocation+cleanCourseName+ "/udemyLinks.txt");
         System.out.println("2");
-        File Title = new File("/media/removable/MULTIBOOT/Udemy/"+cleanCourseName+ "/udemyTitle.txt");
+        File Title = new File(CourseFolderLocation+cleanCourseName+ "/udemyTitle.txt");
         System.out.println("3");
 
         if(!url.exists()){
@@ -283,11 +287,11 @@ public class udemyCourseVideo {
             Title.mkdir();
         }
 
-        File fin = new  File("/media/removable/MULTIBOOT/Udemy/" + cleanCourseName+ "/udemyLinks.txt");
+        File fin = new  File(CourseFolderLocation + cleanCourseName+ "/udemyLinks.txt");
         FileInputStream fis = new FileInputStream(fin);
         BufferedReader br = new BufferedReader(new InputStreamReader(fis));
 
-        File fin2 = new  File("/media/removable/MULTIBOOT/Udemy/"+cleanCourseName+ "/udemyTitle.txt");
+        File fin2 = new  File(CourseFolderLocation+cleanCourseName+ "/udemyTitle.txt");
         FileInputStream fis2 = new FileInputStream(fin2);
         BufferedReader br2 = new BufferedReader(new InputStreamReader(fis2));
 
@@ -302,7 +306,7 @@ public class udemyCourseVideo {
             ReadableByteChannel rbc = Channels.newChannel(website.openStream());
             //  line2 = br2.readLine() ;
             String actualVideoName =  line2 + ".mp4";
-            File path = new File("/media/removable/MULTIBOOT/Udemy/"+ cleanCourseName +"/" + actualVideoName);
+            File path = new File(CourseFolderLocation+ cleanCourseName +"/" + actualVideoName);
             if(!path.exists()) {
                 FileOutputStream fos = new FileOutputStream(path);
                 fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
