@@ -40,7 +40,7 @@ public class udemyMainTest {
     public static Properties loadProp() throws IOException {
 
         //Change this location
-        File file = new File("/home/fortegs/IdeaProjects/udemyDownload/src/config.prop");
+        File file = new File("config.prop");
         FileInputStream fileInput = new FileInputStream(file);
         Properties prop = new Properties();
         prop.load(fileInput);
