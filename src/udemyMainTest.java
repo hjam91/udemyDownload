@@ -39,6 +39,7 @@ public class udemyMainTest {
 
     public static Properties loadProp() throws IOException {
 
+        //Change this location
         File file = new File("/home/fortegs/IdeaProjects/udemyDownload/src/config.prop");
         FileInputStream fileInput = new FileInputStream(file);
         Properties prop = new Properties();
@@ -81,6 +82,7 @@ public class udemyMainTest {
             DesiredCapabilities capabilities = new DesiredCapabilities();
             //  capabilities.setCapability(ChromeOptions.options);
             driver = new ChromeDriver(options);
+
         } else if (BROWSER.equals("IE")) {
 
             driver = new InternetExplorerDriver();

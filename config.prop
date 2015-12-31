@@ -1,0 +1,5 @@
+URL = https://www.udemy.com/learn-java-by-building-projects/
+browser = chrome
+courseFolderLocation = /media/removable/UNTITLED/Udemy/
+count = 0
+chromeDriverLocation = /home/fortegs/chromedriver
