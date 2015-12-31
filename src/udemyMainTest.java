@@ -67,7 +67,8 @@ public class udemyMainTest {
 
         else if (BROWSER.equals("chrome")) {
 
-            System.setProperty("webdriver.chrome.driver", "/home/fortegs/chromedriver");
+
+            System.setProperty("webdriver.chrome.driver", prop.getProperty("chromeDriverLocation"));
             Properties prop = new Properties();
             ChromeOptions options;
             options = new ChromeOptions();
