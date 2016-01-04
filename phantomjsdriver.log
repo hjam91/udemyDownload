@@ -31,3 +31,874 @@
 [ERROR - 2015-12-03T16:49:38.789Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
 [ERROR - 2015-12-03T16:49:38.789Z] Session [a72e9c20-99dd-11e5-8f59-a9322c527ac6] - page.onError - stack:
   _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=43e41625218a01ff2241e43b0dafbb130fe6e3fd:1)
+[INFO  - 2016-01-03T22:12:00.775Z] GhostDriver - Main - running on port 9363
+[INFO  - 2016-01-03T22:12:01.245Z] Session [035bed80-b267-11e5-b0d8-f3c20aeb9317] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-03T22:12:01.245Z] Session [035bed80-b267-11e5-b0d8-f3c20aeb9317] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:12:01.245Z] Session [035bed80-b267-11e5-b0d8-f3c20aeb9317] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:12:01.246Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 035bed80-b267-11e5-b0d8-f3c20aeb9317
+[INFO  - 2016-01-03T22:12:14.537Z] GhostDriver - Main - running on port 7182
+[INFO  - 2016-01-03T22:12:15.128Z] Session [0ba24e30-b267-11e5-a813-25f000b3881d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-03T22:12:15.128Z] Session [0ba24e30-b267-11e5-a813-25f000b3881d] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:12:15.129Z] Session [0ba24e30-b267-11e5-a813-25f000b3881d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:12:15.129Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0ba24e30-b267-11e5-a813-25f000b3881d
+[ERROR - 2016-01-03T22:12:20.276Z] Session [0ba24e30-b267-11e5-a813-25f000b3881d] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:12:20.277Z] Session [0ba24e30-b267-11e5-a813-25f000b3881d] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:12:31.136Z] Session [0ba24e30-b267-11e5-a813-25f000b3881d] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:12:31.136Z] Session [0ba24e30-b267-11e5-a813-25f000b3881d] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T22:13:10.866Z] GhostDriver - Main - running on port 5503
+[INFO  - 2016-01-03T22:13:11.457Z] Session [2d356dc0-b267-11e5-af4d-cfe8c7f9c7de] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-03T22:13:11.457Z] Session [2d356dc0-b267-11e5-af4d-cfe8c7f9c7de] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:13:11.457Z] Session [2d356dc0-b267-11e5-af4d-cfe8c7f9c7de] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:13:11.457Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2d356dc0-b267-11e5-af4d-cfe8c7f9c7de
+[ERROR - 2016-01-03T22:13:16.174Z] Session [2d356dc0-b267-11e5-af4d-cfe8c7f9c7de] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:13:16.174Z] Session [2d356dc0-b267-11e5-af4d-cfe8c7f9c7de] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:13:23.998Z] Session [2d356dc0-b267-11e5-af4d-cfe8c7f9c7de] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:13:23.998Z] Session [2d356dc0-b267-11e5-af4d-cfe8c7f9c7de] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T22:15:18.912Z] GhostDriver - Main - running on port 2524
+[INFO  - 2016-01-03T22:15:19.532Z] Session [798c1f70-b267-11e5-ab1c-27b090291169] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-03T22:15:19.532Z] Session [798c1f70-b267-11e5-ab1c-27b090291169] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:15:19.532Z] Session [798c1f70-b267-11e5-ab1c-27b090291169] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:15:19.532Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 798c1f70-b267-11e5-ab1c-27b090291169
+[ERROR - 2016-01-03T22:15:24.088Z] Session [798c1f70-b267-11e5-ab1c-27b090291169] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:15:24.089Z] Session [798c1f70-b267-11e5-ab1c-27b090291169] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:15:32.376Z] Session [798c1f70-b267-11e5-ab1c-27b090291169] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:15:32.376Z] Session [798c1f70-b267-11e5-ab1c-27b090291169] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T22:19:34.249Z] GhostDriver - Main - running on port 1509
+[INFO  - 2016-01-03T22:19:34.837Z] Session [11b89300-b268-11e5-8cbc-c7f571af7e9f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-03T22:19:34.837Z] Session [11b89300-b268-11e5-8cbc-c7f571af7e9f] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:19:34.838Z] Session [11b89300-b268-11e5-8cbc-c7f571af7e9f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:19:34.838Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 11b89300-b268-11e5-8cbc-c7f571af7e9f
+[ERROR - 2016-01-03T22:19:44.362Z] Session [11b89300-b268-11e5-8cbc-c7f571af7e9f] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:19:44.362Z] Session [11b89300-b268-11e5-8cbc-c7f571af7e9f] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:20:05.093Z] Session [11b89300-b268-11e5-8cbc-c7f571af7e9f] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:20:05.094Z] Session [11b89300-b268-11e5-8cbc-c7f571af7e9f] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T22:24:04.998Z] GhostDriver - Main - running on port 1547
+[INFO  - 2016-01-03T22:24:05.589Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-03T22:24:05.589Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:24:05.589Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:24:05.589Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b31a0d00-b268-11e5-9bc0-edf62b34d82b
+[ERROR - 2016-01-03T22:24:10.243Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:24:10.243Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:24:16.391Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:24:16.391Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:24:28.047Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:24:28.047Z] Session [b31a0d00-b268-11e5-9bc0-edf62b34d82b] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:24:42.232Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451859882200
+[INFO  - 2016-01-03T22:24:54.942Z] GhostDriver - Main - running on port 5474
+[INFO  - 2016-01-03T22:24:55.543Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-03T22:24:55.543Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:24:55.544Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:24:55.544Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d0e01f00-b268-11e5-bad1-cf09b7b67774
+[ERROR - 2016-01-03T22:25:00.368Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:25:00.368Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:25:10.011Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:25:10.012Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:25:20.547Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:25:20.547Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:25:34.624Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451859934623
+[ERROR - 2016-01-03T22:25:45.187Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451859945156
+[ERROR - 2016-01-03T22:25:47.720Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:25:47.721Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:25:58.054Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451859958003
+[ERROR - 2016-01-03T22:26:08.563Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451859968531
+[ERROR - 2016-01-03T22:26:11.057Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:26:11.058Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:26:21.356Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451859981305
+[ERROR - 2016-01-03T22:26:31.876Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451859991828
+[ERROR - 2016-01-03T22:26:34.296Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:26:34.297Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:26:44.629Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860004628
+[ERROR - 2016-01-03T22:26:55.117Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860015100
+[ERROR - 2016-01-03T22:26:57.826Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:26:57.826Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:27:08.009Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860027962
+[ERROR - 2016-01-03T22:27:18.848Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860038814
+[ERROR - 2016-01-03T22:27:23.305Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:27:23.305Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:27:26.240Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:27:26.240Z] Session [d0e01f00-b268-11e5-bad1-cf09b7b67774] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T22:31:48.222Z] GhostDriver - Main - running on port 27985
+[INFO  - 2016-01-03T22:31:48.848Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T22:31:48.849Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:31:48.849Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:31:48.849Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c739c3b0-b269-11e5-b922-773c8661ead9
+[ERROR - 2016-01-03T22:31:58.085Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:31:58.086Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:32:08.235Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:32:08.236Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:32:19.578Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:32:19.578Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:32:33.838Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860353790
+[ERROR - 2016-01-03T22:32:44.404Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860364388
+[ERROR - 2016-01-03T22:32:46.839Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:32:46.839Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:32:57.219Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860377169
+[ERROR - 2016-01-03T22:33:07.707Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860387692
+[ERROR - 2016-01-03T22:33:10.297Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:33:10.297Z] Session [c739c3b0-b269-11e5-b922-773c8661ead9] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:33:20.514Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451860400505
+[INFO  - 2016-01-03T22:45:52.582Z] GhostDriver - Main - running on port 2188
+[INFO  - 2016-01-03T22:45:53.215Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T22:45:53.215Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:45:53.215Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:45:53.215Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7
+[ERROR - 2016-01-03T22:45:57.837Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:45:57.837Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:46:07.481Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:46:07.481Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:46:19.254Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:46:19.254Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:46:33.387Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861193361
+[ERROR - 2016-01-03T22:46:43.937Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861203916
+[ERROR - 2016-01-03T22:46:46.398Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:46:46.398Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:46:56.749Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861216698
+[ERROR - 2016-01-03T22:47:07.280Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861227241
+[ERROR - 2016-01-03T22:47:09.795Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:47:09.795Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:47:20.102Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861240079
+[ERROR - 2016-01-03T22:47:31.003Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861250997
+[ERROR - 2016-01-03T22:47:33.749Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:47:33.749Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:47:43.924Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861263913
+[ERROR - 2016-01-03T22:47:54.435Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861274426
+[ERROR - 2016-01-03T22:47:56.817Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:47:56.817Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:48:07.197Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861287166
+[ERROR - 2016-01-03T22:48:17.694Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861297674
+[ERROR - 2016-01-03T22:48:21.831Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:48:21.831Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:48:22.263Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:48:22.264Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:72)
+[ERROR - 2016-01-03T22:48:22.264Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:48:22.264Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:48:24.276Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:48:24.276Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:48:29.969Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:48:29.969Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:48:43.353Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:48:43.353Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:48:47.289Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:48:47.289Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:48:57.517Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861337505
+[ERROR - 2016-01-03T22:49:08.451Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861348423
+[ERROR - 2016-01-03T22:49:11.322Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:49:11.322Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:49:21.411Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861361362
+[ERROR - 2016-01-03T22:49:32.091Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861372045
+[ERROR - 2016-01-03T22:49:34.863Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:49:34.863Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:49:45.232Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861385215
+[ERROR - 2016-01-03T22:49:56.108Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861396091
+[ERROR - 2016-01-03T22:49:59.307Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:49:59.307Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:50:09.353Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861409308
+[ERROR - 2016-01-03T22:50:20.255Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861420227
+[ERROR - 2016-01-03T22:50:22.799Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:50:22.799Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:50:33.167Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861433145
+[ERROR - 2016-01-03T22:50:43.832Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861443802
+[ERROR - 2016-01-03T22:50:47.848Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:50:47.848Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:50:48.376Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:50:48.376Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:72)
+[ERROR - 2016-01-03T22:50:48.376Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:50:48.377Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:50:50.555Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:50:50.555Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T22:50:52.584Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-01-03T22:50:57.677Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:50:57.677Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:51:07.806Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:51:07.807Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:51:11.752Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:51:11.752Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:51:22.162Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861482110
+[ERROR - 2016-01-03T22:51:33.119Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861493097
+[ERROR - 2016-01-03T22:51:36.049Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:51:36.049Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:51:46.204Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861506203
+[ERROR - 2016-01-03T22:51:56.931Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861516929
+[ERROR - 2016-01-03T22:51:59.691Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:51:59.691Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:52:10.168Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861530120
+[ERROR - 2016-01-03T22:52:21.105Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861541068
+[INFO  - 2016-01-03T22:52:22.125Z] GhostDriver - Main - running on port 21052
+[INFO  - 2016-01-03T22:52:22.714Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T22:52:22.715Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:52:22.716Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:52:22.716Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a6aac650-b26c-11e5-a371-ff93cdb21807
+[ERROR - 2016-01-03T22:52:24.411Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:52:24.411Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:52:26.900Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:52:26.900Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:52:32.870Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:52:32.871Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:52:34.774Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861554765
+[ERROR - 2016-01-03T22:52:45.463Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861565454
+[ERROR - 2016-01-03T22:52:45.466Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:52:45.467Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:52:48.139Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:52:48.139Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:52:58.556Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861578505
+[ERROR - 2016-01-03T22:52:59.756Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861579713
+[ERROR - 2016-01-03T22:53:09.055Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861589036
+[ERROR - 2016-01-03T22:53:10.549Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861590530
+[ERROR - 2016-01-03T22:53:13.590Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:13.590Z] Session [a6aac650-b26c-11e5-a371-ff93cdb21807] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:53:14.687Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:14.688Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:53:14.873Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:53:14.873Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:72)
+[ERROR - 2016-01-03T22:53:14.873Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:53:14.873Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:53:16.788Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:16.788Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:53:23.034Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:23.034Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:53:23.802Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861603722
+[INFO  - 2016-01-03T22:53:31.300Z] GhostDriver - Main - running on port 5609
+[INFO  - 2016-01-03T22:53:31.936Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T22:53:31.936Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:53:31.936Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:53:31.937Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cfecc180-b26c-11e5-8ac4-07ea7bd73b2c
+[ERROR - 2016-01-03T22:53:36.852Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:36.853Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:53:37.592Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:37.592Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:53:41.532Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:41.532Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:53:44.937Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:44.937Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:53:51.880Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861631868
+[ERROR - 2016-01-03T22:53:56.937Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:53:56.937Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:54:02.527Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861642502
+[ERROR - 2016-01-03T22:54:04.705Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:54:04.706Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:54:05.383Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:54:05.383Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:54:08.276Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:54:08.277Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:54:11.963Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:54:11.963Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:54:15.700Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:54:15.700Z] Session [cfecc180-b26c-11e5-8ac4-07ea7bd73b2c] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:54:15.765Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861655727
+[ERROR - 2016-01-03T22:54:26.309Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861666279
+[ERROR - 2016-01-03T22:54:29.576Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:54:29.577Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:54:39.906Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861679893
+[ERROR - 2016-01-03T22:54:50.472Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861690465
+[ERROR - 2016-01-03T22:54:53.257Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:54:53.257Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:55:03.317Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861703295
+[ERROR - 2016-01-03T22:55:13.831Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861713816
+[ERROR - 2016-01-03T22:55:16.263Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:55:16.263Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:55:26.748Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861726695
+[ERROR - 2016-01-03T22:55:37.181Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861737143
+[ERROR - 2016-01-03T22:55:40.541Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:55:40.541Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:55:43.127Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:55:43.127Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:55:48.708Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:55:48.709Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T22:55:52.584Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-01-03T22:56:01.460Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:56:01.460Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:56:05.722Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:56:05.722Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:56:15.946Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861775919
+[ERROR - 2016-01-03T22:56:26.430Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861786405
+[ERROR - 2016-01-03T22:56:29.123Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:56:29.123Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:56:39.493Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861799482
+[ERROR - 2016-01-03T22:56:50.347Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861810325
+[ERROR - 2016-01-03T22:56:53.476Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:56:53.476Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:57:03.660Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861823651
+[ERROR - 2016-01-03T22:57:14.555Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861834505
+[ERROR - 2016-01-03T22:57:18.073Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:57:18.073Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:57:27.865Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861847823
+[ERROR - 2016-01-03T22:57:38.477Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861858455
+[ERROR - 2016-01-03T22:57:41.682Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:57:41.683Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:57:52.063Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861872051
+[ERROR - 2016-01-03T22:58:03.022Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861882987
+[ERROR - 2016-01-03T22:58:08.199Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: Error: Script error for: adroll
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-01-03T22:58:08.199Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  (anonymous function) (https://www.udemy.com/staticx/udemy/js/jq/ud.requireerrorhandler.js?v=b026774160ab185d44134587777bc6717dd286bc:12)
+  onError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:545)
+  onScriptError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:1696)
+[ERROR - 2016-01-03T22:58:08.199Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.200Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:08.201Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: Error: RequireJS error for: shopping-cart.app/services/shopping-client
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-01-03T22:58:08.202Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  l (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  captureException (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  (anonymous function) (https://www.udemy.com/staticx/udemy/js/jq/ud.requireerrorhandler.js?v=b026774160ab185d44134587777bc6717dd286bc:19)
+  onError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:545)
+  onScriptError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:1696)
+[ERROR - 2016-01-03T22:58:08.202Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.202Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:08.203Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.203Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:72)
+[ERROR - 2016-01-03T22:58:08.203Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.203Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:08.204Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: Error: RequireJS error for: angular-cookies
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-01-03T22:58:08.204Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  l (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  captureException (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  (anonymous function) (https://www.udemy.com/staticx/udemy/js/jq/ud.requireerrorhandler.js?v=b026774160ab185d44134587777bc6717dd286bc:19)
+  onError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:545)
+  onScriptError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:1696)
+[ERROR - 2016-01-03T22:58:08.205Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.205Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:08.205Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: Error: RequireJS error for: https://js.stripe.com/v2/
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-01-03T22:58:08.206Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  l (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  captureException (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  (anonymous function) (https://www.udemy.com/staticx/udemy/js/jq/ud.requireerrorhandler.js?v=b026774160ab185d44134587777bc6717dd286bc:19)
+  onError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:545)
+  onScriptError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:1696)
+[ERROR - 2016-01-03T22:58:08.206Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.206Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:08.207Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: Error: RequireJS error for: ng-root/services/funnel-tracking-service
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-01-03T22:58:08.207Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  l (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  captureException (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  (anonymous function) (https://www.udemy.com/staticx/udemy/js/jq/ud.requireerrorhandler.js?v=b026774160ab185d44134587777bc6717dd286bc:19)
+  onError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:545)
+  onScriptError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:1696)
+[ERROR - 2016-01-03T22:58:08.207Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.207Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:08.207Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: Error: RequireJS error for: ng-root/config/http-interceptors
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-01-03T22:58:08.208Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  l (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  captureException (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  (anonymous function) (https://www.udemy.com/staticx/udemy/js/jq/ud.requireerrorhandler.js?v=b026774160ab185d44134587777bc6717dd286bc:19)
+  onError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:545)
+  onScriptError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:1696)
+[ERROR - 2016-01-03T22:58:08.208Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.208Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:08.209Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: Error: RequireJS error for: jquery.payment
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-01-03T22:58:08.209Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  l (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  captureException (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  (anonymous function) (https://www.udemy.com/staticx/udemy/js/jq/ud.requireerrorhandler.js?v=b026774160ab185d44134587777bc6717dd286bc:19)
+  onError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:545)
+  onScriptError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:1696)
+[ERROR - 2016-01-03T22:58:08.209Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.209Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:08.210Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: Error: RequireJS error for: velocity-ui
+http://requirejs.org/docs/errors.html#scripterror
+[ERROR - 2016-01-03T22:58:08.210Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  l (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  captureException (https://www.udemy.com/staticx/udemy/js/bower_components/raven-js/dist/raven.min.js?v=b026774160ab185d44134587777bc6717dd286bc:2)
+  (anonymous function) (https://www.udemy.com/staticx/udemy/js/jq/ud.requireerrorhandler.js?v=b026774160ab185d44134587777bc6717dd286bc:19)
+  onError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:545)
+  onScriptError (https://www.udemy.com/staticx/udemy/js/bower_components/requirejs/require.js?v=b026774160ab185d44134587777bc6717dd286bc:1696)
+[ERROR - 2016-01-03T22:58:08.210Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T22:58:08.211Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T22:58:11.480Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:58:11.480Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:58:17.142Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:58:17.142Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:58:29.915Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:58:29.915Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:58:33.853Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:58:33.853Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:58:44.260Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861924251
+[ERROR - 2016-01-03T22:58:54.941Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861934908
+[ERROR - 2016-01-03T22:58:57.809Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:58:57.809Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:59:08.236Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861948190
+[INFO  - 2016-01-03T22:59:17.765Z] GhostDriver - Main - running on port 2093
+[INFO  - 2016-01-03T22:59:18.330Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-03T22:59:18.331Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T22:59:18.331Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T22:59:18.331Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9e64be50-b26d-11e5-a872-6921dee0eaaa
+[ERROR - 2016-01-03T22:59:19.159Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861959120
+[ERROR - 2016-01-03T22:59:22.285Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:59:22.285Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:59:22.990Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:59:22.990Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:59:29.675Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:59:29.675Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:59:32.552Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861972536
+[ERROR - 2016-01-03T22:59:41.304Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:59:41.304Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:59:43.243Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861983228
+[ERROR - 2016-01-03T22:59:46.140Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:59:46.141Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:59:48.978Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T22:59:48.978Z] Session [9e64be50-b26d-11e5-a872-6921dee0eaaa] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T22:59:56.467Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451861996437
+[ERROR - 2016-01-03T23:00:07.160Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862007134
+[ERROR - 2016-01-03T23:00:10.360Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:00:10.360Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:00:20.746Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862020714
+[ERROR - 2016-01-03T23:00:31.595Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862031571
+[ERROR - 2016-01-03T23:00:35.986Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:00:35.987Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:00:36.294Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T23:00:36.294Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:72)
+[ERROR - 2016-01-03T23:00:36.294Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T23:00:36.294Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T23:00:38.614Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:00:38.614Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:00:44.398Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:00:44.398Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T23:00:52.616Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-01-03T23:00:56.250Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:00:56.251Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:01:01.117Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:01:01.117Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:01:11.451Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862071425
+[ERROR - 2016-01-03T23:01:22.760Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862082733
+[ERROR - 2016-01-03T23:01:26.219Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:01:26.220Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:01:36.552Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862096500
+[ERROR - 2016-01-03T23:01:47.890Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862107841
+[ERROR - 2016-01-03T23:01:57.181Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:01:57.181Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:02:01.721Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862121669
+[ERROR - 2016-01-03T23:02:12.569Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862132559
+[ERROR - 2016-01-03T23:02:15.664Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:02:15.665Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:02:25.849Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862145847
+[ERROR - 2016-01-03T23:02:37.071Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862157047
+[ERROR - 2016-01-03T23:02:40.446Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:02:40.446Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:02:50.748Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862170725
+[ERROR - 2016-01-03T23:03:02.182Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862182132
+[ERROR - 2016-01-03T23:03:06.492Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:03:06.492Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:03:07.017Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T23:03:07.017Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:72)
+[ERROR - 2016-01-03T23:03:07.017Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: [object Object]
+[ERROR - 2016-01-03T23:03:07.017Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  error (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:65)
+  onerror (https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X:73)
+[ERROR - 2016-01-03T23:03:08.984Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:03:08.984Z] Session [be81f1a0-b26b-11e5-adb5-5d8dd5d7cec7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:03:31.726Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862211606
+[INFO  - 2016-01-03T23:05:52.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:07:40.944Z] GhostDriver - Main - running on port 29256
+[INFO  - 2016-01-03T23:07:41.560Z] Session [ca578c30-b26e-11e5-91f4-b70ee83c38c7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T23:07:41.560Z] Session [ca578c30-b26e-11e5-91f4-b70ee83c38c7] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T23:07:41.560Z] Session [ca578c30-b26e-11e5-91f4-b70ee83c38c7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T23:07:41.560Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ca578c30-b26e-11e5-91f4-b70ee83c38c7
+[ERROR - 2016-01-03T23:07:45.893Z] Session [ca578c30-b26e-11e5-91f4-b70ee83c38c7] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:07:45.894Z] Session [ca578c30-b26e-11e5-91f4-b70ee83c38c7] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:08:11.932Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862491772
+[INFO  - 2016-01-03T23:08:21.238Z] GhostDriver - Main - running on port 26767
+[INFO  - 2016-01-03T23:08:21.842Z] Session [e25a17d0-b26e-11e5-bb00-778c0aba49d4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T23:08:21.842Z] Session [e25a17d0-b26e-11e5-bb00-778c0aba49d4] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T23:08:21.842Z] Session [e25a17d0-b26e-11e5-bb00-778c0aba49d4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T23:08:21.842Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e25a17d0-b26e-11e5-bb00-778c0aba49d4
+[ERROR - 2016-01-03T23:08:26.238Z] Session [e25a17d0-b26e-11e5-bb00-778c0aba49d4] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:08:26.238Z] Session [e25a17d0-b26e-11e5-bb00-778c0aba49d4] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:08:50.485Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862530428
+[INFO  - 2016-01-03T23:09:39.543Z] GhostDriver - Main - running on port 3265
+[INFO  - 2016-01-03T23:09:40.166Z] Session [11096310-b26f-11e5-b9a5-611f0672d49d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T23:09:40.166Z] Session [11096310-b26f-11e5-b9a5-611f0672d49d] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T23:09:40.166Z] Session [11096310-b26f-11e5-b9a5-611f0672d49d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T23:09:40.166Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 11096310-b26f-11e5-b9a5-611f0672d49d
+[ERROR - 2016-01-03T23:09:44.553Z] Session [11096310-b26f-11e5-b9a5-611f0672d49d] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:09:44.553Z] Session [11096310-b26f-11e5-b9a5-611f0672d49d] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:10:10.830Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451862610822
+[INFO  - 2016-01-03T23:10:52.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:12:40.941Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:13:21.236Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:14:39.541Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:15:52.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:17:40.953Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:18:21.236Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:18:52.992Z] GhostDriver - Main - running on port 1272
+[INFO  - 2016-01-03T23:18:53.275Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T23:18:53.275Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T23:18:53.275Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T23:18:53.275Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5ab6f850-b270-11e5-acaa-5b9f6a108e7a
+[ERROR - 2016-01-03T23:18:58.383Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:18:58.383Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:19:08.066Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:19:08.067Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:19:19.090Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:19:19.090Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:19:35.059Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451863175008
+[INFO  - 2016-01-03T23:19:39.541Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-01-03T23:19:45.744Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451863185732
+[ERROR - 2016-01-03T23:19:48.963Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:19:48.964Z] Session [5ab6f850-b270-11e5-acaa-5b9f6a108e7a] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:20:01.070Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451863201018
+[INFO  - 2016-01-03T23:20:52.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:22:31.300Z] GhostDriver - Main - running on port 8499
+[INFO  - 2016-01-03T23:22:32.040Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T23:22:32.041Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T23:22:32.041Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T23:22:32.041Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: dd1b8e00-b270-11e5-bba6-1937a2c4e985
+[ERROR - 2016-01-03T23:22:37.401Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:22:37.401Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T23:22:40.941Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-01-03T23:22:43.132Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:22:43.132Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:22:55.757Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:22:55.765Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:23:02.978Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:23:02.978Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:23:06.747Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:23:06.748Z] Session [dd1b8e00-b270-11e5-bba6-1937a2c4e985] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T23:23:21.236Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:24:03.958Z] GhostDriver - Main - running on port 24449
+[INFO  - 2016-01-03T23:24:04.343Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T23:24:04.343Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T23:24:04.344Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T23:24:04.344Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 14205520-b271-11e5-ae44-69fb3baf48c0
+[ERROR - 2016-01-03T23:24:08.541Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:24:08.542Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:24:14.689Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:24:14.690Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:24:27.217Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:24:27.218Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:24:34.861Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:24:34.862Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[ERROR - 2016-01-03T23:24:38.635Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:24:38.635Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T23:24:39.541Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-01-03T23:24:42.498Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:24:42.498Z] Session [14205520-b271-11e5-ae44-69fb3baf48c0] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T23:25:52.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:27:40.941Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:28:21.236Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:29:26.252Z] GhostDriver - Main - running on port 16341
+[INFO  - 2016-01-03T23:29:26.763Z] Session [d44d4330-b271-11e5-b3f6-6d924a377beb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2016-01-03T23:29:26.764Z] Session [d44d4330-b271-11e5-b3f6-6d924a377beb] - page.customHeaders:  - {}
+[INFO  - 2016-01-03T23:29:26.764Z] Session [d44d4330-b271-11e5-b3f6-6d924a377beb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-01-03T23:29:26.764Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d44d4330-b271-11e5-b3f6-6d924a377beb
+[ERROR - 2016-01-03T23:29:35.943Z] Session [d44d4330-b271-11e5-b3f6-6d924a377beb] - page.onError - msg: VIDEOJS: ERROR: (CODE:1052 undefined) No compatible source was found for this video. [object Object]
+[ERROR - 2016-01-03T23:29:35.943Z] Session [d44d4330-b271-11e5-b3f6-6d924a377beb] - page.onError - stack:
+  _logType (https://www.udemy.com/staticx/udemy/js/bower_components/video.js/dist/video-js/video.dev.min.js?v=b026774160ab185d44134587777bc6717dd286bc:1)
+[INFO  - 2016-01-03T23:29:39.541Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-01-03T23:29:51.411Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451863791264
+[ERROR - 2016-01-03T23:30:09.463Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1451863809422
+[INFO  - 2016-01-03T23:30:52.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-03T23:32:40.941Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:10:47.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:11:52.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:12:05.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:13:18.706Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:15:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:15:47.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:16:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:17:05.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:18:18.706Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:20:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:20:47.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:21:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:22:05.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:23:18.706Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:25:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:25:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:26:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:27:05.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:28:18.706Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:30:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:30:47.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:31:52.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:32:05.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:33:18.707Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:35:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:35:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:36:52.328Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:37:05.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:38:18.712Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:40:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:40:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:41:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:42:05.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:43:18.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:45:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:45:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:46:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:47:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:48:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:50:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:50:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:51:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:52:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:53:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:55:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:55:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:56:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:57:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T00:58:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:00:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:00:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:01:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:02:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:03:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:05:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:05:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:06:52.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:07:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:08:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:10:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:10:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:11:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:12:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:13:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:15:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:15:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:16:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:17:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:18:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:20:07.034Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:20:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:21:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:22:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:23:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:25:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:25:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:26:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:27:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:28:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:30:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:30:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:31:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:32:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:33:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:35:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:35:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:36:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:37:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:38:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:40:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:40:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:41:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:42:05.635Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:43:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:45:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:45:47.330Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:46:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:47:05.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:48:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:50:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:50:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:51:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:52:05.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:53:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:55:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:55:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:56:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:57:05.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T01:58:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:00:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:00:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:01:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:02:05.637Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:03:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:05:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:05:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:06:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:07:05.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:08:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:10:07.033Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:10:47.342Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:11:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:12:05.641Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:13:18.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:15:07.041Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:15:47.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:16:52.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:17:05.641Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:18:21.296Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:20:09.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:20:49.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:21:54.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:22:08.222Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:23:21.303Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:25:09.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:25:49.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:26:54.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:27:08.222Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:28:21.296Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:30:09.630Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:30:49.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:31:54.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:32:08.222Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:33:21.296Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:35:09.616Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:35:49.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:36:54.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:37:08.222Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:38:21.300Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:40:09.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-04T02:40:49.910Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

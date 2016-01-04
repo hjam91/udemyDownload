@@ -1,6 +1,4 @@
 
-import org.apache.commons.io.FileUtils;
-import org.apache.james.mime4j.field.datetime.DateTime;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -32,10 +30,6 @@ public class udemyCourseVideo {
     /*@FindBy(xpath = ".//body/script")
     WebElement videoScriptElement;*/
 
-
-
-
-
     @FindBy(xpath = ".//*[@id='preview-banner']/ng-include/div/div/div[1]/timer/span")
     WebElement timer;
 
@@ -52,7 +46,8 @@ public class udemyCourseVideo {
     static String cleanName;
     Map<String, String> map = new HashMap<String, String>();
     static String lectureName;
-    static String CourseFolderLocation = udemyMainTest.prop.getProperty("courseFolderLocation");
+    static String CourseFolderLocation = "";
+    //static String CourseFolderLocation = udemyMainTest.prop.getProperty("courseFolderLocation");
    // static String CourseTitleLocation = udemyMainTest.prop.getProperty("courseTitleLocation");
     //static String CourseURLLocation = udemyMainTest.prop.getProperty("courseURLLocation");
     //Writer  = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(), "UTF-8"));
@@ -125,7 +120,7 @@ public class udemyCourseVideo {
             //   System.out.println("Clean name PDF: "+ cleanName);
             WebElement videoFrame = driver.findElement(By.xpath( "//*[starts-with(@name,\"easyXDM\")]"));
 
-
+            System.out.println(driver.getTitle());
             driver.switchTo().frame(videoFrame);
             //String videoLink = videoScriptElement.getText();
             //videoLink.replaceFirst(videoLinkPattern)
@@ -134,7 +129,12 @@ public class udemyCourseVideo {
             regexMatcher.toString()*/
 
 
-            WebElement videoURL = driver.findElement(By.xpath(".//video"));
+            WebDriverWait wait = new WebDriverWait(driver, 10);
+            WebElement videoURL = wait.until(ExpectedConditions.elementToBeClickable(By.xpath(".//video")));
+       //     WebElement videoURL = driver.findElement(By.xpath(".//video"));
+            System.out.println(videoURL.getTagName());
+            System.out.println(videoURL.getText());
+           // System.out.println(videoFrame.getTagName());
             String VideoRawURL = videoURL.getAttribute("src");
 
             //   output.append(VideoRawURL);
@@ -158,6 +158,7 @@ public class udemyCourseVideo {
             //DownloadActualFile(VideoRawURL, lectureName);
 
             driver.switchTo().defaultContent();
+            System.out.println("2000");
             executor.executeScript("scroll(0, 100);");
 
 
@@ -183,6 +184,7 @@ public class udemyCourseVideo {
                 System.out.println("After Get Text");
                 System.out.println("Clean name Text: "+ lectureName);
                 File path = new File(CourseFolderLocation+ cleanCourseName +"/" + lectureName+".txt");
+
                 BufferedWriter txtOutput = new BufferedWriter(new FileWriter(path));
                 txtOutput.append(text.getText());
                 txtOutput.close();
@@ -249,7 +251,8 @@ public class udemyCourseVideo {
     }
 
 
-    public int updateCount(int count){
+    public int updateCount(int count) throws FileNotFoundException, UnsupportedEncodingException {
+
         return count;
     }
 
@@ -302,7 +305,7 @@ public class udemyCourseVideo {
 
             URL website = new URL(line);
             line2 = br2.readLine() ;
-            System.out.println(getFileSize(website) + "- " + line2 + ":  Download started");
+            System.out.println(getFileSize(website)+"KB " + "- " + line2 + ":  Download started");
             ReadableByteChannel rbc = Channels.newChannel(website.openStream());
             //  line2 = br2.readLine() ;
             String actualVideoName =  line2 + ".mp4";
@@ -327,6 +330,12 @@ public class udemyCourseVideo {
 
         br.close();
         br2.close();
+        fin.delete();
+        fin2.delete();
+        new File("count.txt").delete();
+        new File("coureName.txt").delete();
+        /*udemyMainTest.countStore.delete();
+        udemyMainTest.courseName.delete();*/
     }
 
     public int clickAndCountCourses(int count) throws IOException, InterruptedException, ParseException {
@@ -353,17 +362,35 @@ public class udemyCourseVideo {
 
             if (!(isTimeUp(count))){
                 count++;
+
+                new File("count.txt").delete();
+                File countStore = new File("count.txt");
+                FileWriter countStoreFile = new FileWriter(countStore,false);
+                countStoreFile.write(Integer.toString(count));
+                countStoreFile.close();
+                System.out.println(count + " TIME UP");
                 return updateCount(count);
             }
 
+            new File("count.txt").delete();
+
+            File countStore = new File("count.txt");
+            FileWriter countStoreFile = new FileWriter(countStore,false);
+            countStoreFile.write(Integer.toString(count));
+            countStoreFile.close();
+            System.out.println(count + "NO TIME UP");
+
             count++;
+
+
 
         }
 
         //  DownloadActualFile(VideoRawURL, lectureName);
-        if (count > countCourses())
+        if (count > countCourses()) {
+            udemyMainTest.closeBrowser();
             DownloadActualFile();
-
+        }
         return updateCount(count);
 
 
