@@ -200,7 +200,7 @@ public class udemyMainTest {
 
 
 
-        driver.manage().window().setPosition(new Point(-200000, -200000));
+        driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 
