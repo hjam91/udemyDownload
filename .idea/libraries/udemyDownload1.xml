@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="udemyDownload1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/udemyDownload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
