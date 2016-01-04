@@ -123,7 +123,7 @@ public class udemyMainTest {
                 "========================================================");
         System.out.println("Hello This is Udemy Video Downloader, Videos will Download" +
                 " when they have gone through the whole course, Remember that" +
-                " and please be patient......PLEASE LEAVE THIS MINIMIZED OR WEIRD THINGS WILL HAPPEN");
+                " and please be patient......PLEASE LEAVE EVRYTHING MINIMIZED OR WEIRD THINGS WILL HAPPEN");
         System.out.println("===================================================================" +
                 "==============================================================================" +
                 "========================================================");
@@ -198,7 +198,8 @@ public class udemyMainTest {
          courseName = new File("courseName.txt");
 
 
-        driver.manage().window().setPosition(new Point(-5000, -5000));
+
+        driver.manage().window().setPosition(new Point(-200000, -200000));
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 
