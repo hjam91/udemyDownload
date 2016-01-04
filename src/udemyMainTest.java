@@ -92,6 +92,7 @@ public class udemyMainTest {
 
                 new File("count.txt").delete();
                 new File("courseName.txt").delete();
+
                 System.out.println("First, enter the Udemy Course URL: ");
                 Scanner in2 = new Scanner(System.in);
                 URL = in2.nextLine();
