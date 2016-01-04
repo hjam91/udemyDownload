@@ -217,8 +217,6 @@ public class udemyMainTest {
                 courseNameFile.write(URL);
                 courseNameFile.close();
 
-            try {
-
                 Thread.sleep(3000);
                 System.out.println("1");
                 courseHomePage.fillOutRegInfo();
@@ -226,9 +224,7 @@ public class udemyMainTest {
                 Thread.sleep(3000);
                 //pageMove(courseHomePage.SumbitButtonElement().click(),Psg2.class);
 
-            } catch (Exception e) {
 
-            }
 
             Thread.sleep(3000);
             System.out.println("Success Phantom 1");
