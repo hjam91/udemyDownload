@@ -16,7 +16,7 @@ public class udemyCoursePreviewPageRepo {
     @FindBy(linkText = "Take This Course")
     WebElement takeCourseButton;
 
-    @FindBy(linkText = "Start free preview")
+    @FindBy(linkText = "Start Free Preview")
     WebElement freePreviewButton;
 
 

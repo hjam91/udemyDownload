@@ -8,8 +8,8 @@
         import org.openqa.selenium.ie.InternetExplorerDriver;
        // import org.openqa.selenium.phantomjs.PhantomJSDriver;
        // import org.openqa.selenium.phantomjs.PhantomJSDriverService;
-        import org.openqa.selenium.phantomjs.PhantomJSDriver;
-        import org.openqa.selenium.phantomjs.PhantomJSDriverService;
+        //import org.openqa.selenium.phantomjs.PhantomJSDriver;
+        //import org.openqa.selenium.phantomjs.PhantomJSDriverService;
         import org.openqa.selenium.remote.DesiredCapabilities;
        /* import org.testng.annotations.AfterClass;
         import org.testng.annotations.BeforeClass;
