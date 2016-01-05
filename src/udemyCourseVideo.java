@@ -88,8 +88,8 @@ public class udemyCourseVideo {
 
 
         cleanCourseName  = courseName.replaceAll("[ ](?=[ ])|[^-_,A-Za-z0-9 ]+","");
-        System.out.println("Checking File");
-        System.out.println("FolderLocation  - : " + CourseFolderLocation);
+        System.out.println("Checking File Location");
+        //System.out.println("FolderLocation  - : " + CourseFolderLocation);
 
         File folder = new File(CourseFolderLocation+cleanCourseName);
 
@@ -99,18 +99,17 @@ public class udemyCourseVideo {
 
         
         File url = new File( CourseFolderLocation +cleanCourseName+ "/udemyLinks.txt");
-        System.out.println("File Check Good");
         File title = new File(CourseFolderLocation+cleanCourseName+ "/udemyTitle.txt");
-
+        System.out.println("File Location check Good");
 
 
         try {
 
 
 
-            System.out.println("Buffer File 1");
+            System.out.println("Reading File 1");
             BufferedWriter writerURL = new BufferedWriter(new FileWriter(url, true));
-            System.out.println("Buffer File 2");
+            System.out.println("Reading File 2");
             BufferedWriter writerTitle = new BufferedWriter(new FileWriter(title, true));
 
             Thread.sleep(1000);
@@ -181,8 +180,8 @@ public class udemyCourseVideo {
 
                 //  System.out.println(text.getText());
 
-                System.out.println("After Get Text");
-                System.out.println("Clean name Text: "+ lectureName);
+             //   System.out.println("");
+                System.out.println("Clean Lecture Name: "+ lectureName);
                 File path = new File(CourseFolderLocation+ cleanCourseName +"/" + lectureName+".txt");
 
                 BufferedWriter txtOutput = new BufferedWriter(new FileWriter(path));
@@ -199,17 +198,21 @@ public class udemyCourseVideo {
                     driver.switchTo().defaultContent();
 
                     WebElement ebookFrame = driver.findElement(By.xpath("//*[starts-with(@name,\"easyXDM\")]"));
-
+                    System.out.println("Before PDF iframe");
                     driver.switchTo().frame(ebookFrame);
+                    System.out.println(driver.getPageSource());
+                    System.out.println("During PDF Frame");
+                    String PDFRaw = driver.findElement(By.className("btn")).getAttribute("href");
+                            //driver.findElement(By.xpath("//*[starts-with(@data,\"https://\")]")).getAttribute("data");
+                    System.out.println(PDFRaw);
+                   // String PDFRaw2 = PDFRaw.substring(PDFRaw.indexOf("&file=")+6 , PDFRaw.length());
+                   // String PDF = java.net.URLDecoder.decode(PDFRaw2, "UTF-8");
 
-                    String PDFRaw = driver.findElement(By.xpath(".//iframe")).getAttribute("src");
-                    String PDFRaw2 = PDFRaw.substring(PDFRaw.indexOf("&file=")+6 , PDFRaw.length());
-                    String PDF = java.net.URLDecoder.decode(PDFRaw2, "UTF-8");
+                    System.out.println("After PDF Frame");
 
+                    System.out.println(PDFRaw);
 
-                    System.out.println(PDF);
-
-                    URL website = new URL(PDF);
+                    URL website = new URL(PDFRaw);
                     System.out.println(getFileSize(website) + "- PDF:  " + cleanCourseName + ":  Download started");
                     ReadableByteChannel rbc = Channels.newChannel(website.openStream());
 
@@ -274,15 +277,14 @@ public class udemyCourseVideo {
 
     public void DownloadActualFile() throws IOException {
 
-        System.out.println("1");
+        System.out.println("Reading Download Links");
         File url = new File(CourseFolderLocation+cleanCourseName+ "/udemyLinks.txt");
-        System.out.println("2");
+        System.out.println("Reading Course Titles");
         File Title = new File(CourseFolderLocation+cleanCourseName+ "/udemyTitle.txt");
-        System.out.println("3");
+       // System.out.println("3");
 
         if(!url.exists()){
             url.mkdir();
-
 
         }
 
@@ -313,13 +315,13 @@ public class udemyCourseVideo {
             if(!path.exists()) {
                 FileOutputStream fos = new FileOutputStream(path);
                 fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
-                System.out.print(getFileSize(website)+"KB " + "- " + line2 + "Download Finished");
+                System.out.print(getFileSize(website)+"KB " + "- " + line2 + ": Download Finished");
 
                 if (fos.getChannel().size() == getFileSize(website)) {
                     System.out.println("-- Size Verified");
 
                 } else {
-                    System.out.println("Size not matching");
+                    System.out.println(" Size not matching");
 
                 }
             }
@@ -368,7 +370,7 @@ public class udemyCourseVideo {
                 FileWriter countStoreFile = new FileWriter(countStore,false);
                 countStoreFile.write(Integer.toString(count));
                 countStoreFile.close();
-                System.out.println(count + " TIME UP");
+                System.out.println(count + " TIME IS UP ---- Restarting Session");
                 return updateCount(count);
             }
 
@@ -378,7 +380,7 @@ public class udemyCourseVideo {
             FileWriter countStoreFile = new FileWriter(countStore,false);
             countStoreFile.write(Integer.toString(count));
             countStoreFile.close();
-            System.out.println(count + "NO TIME UP");
+            System.out.println(count + ": Times Not Up");
 
             count++;
 
@@ -400,7 +402,7 @@ public class udemyCourseVideo {
 
         int time = Integer.parseInt(timer.getText().substring(0, timer.getText().length() - 3));
         //  System.out.println(time + ": Time");
-        if (time <= 2) {
+        if (time <= 1) {
 
             if (count < lecturesSize) {
 

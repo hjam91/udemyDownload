@@ -18,10 +18,7 @@
 
         import java.io.*;
         import java.text.ParseException;
-        import java.util.ArrayList;
-        import java.util.Collections;
-        import java.util.Properties;
-        import java.util.Scanner;
+        import java.util.*;
         import java.util.concurrent.TimeUnit;
 
         import static com.thoughtworks.selenium.SeleneseTestNgHelper.assertEquals;
@@ -184,8 +181,14 @@ public class udemyMainTest {
 
         ChromeOptions options;
         options = new ChromeOptions();
+
+
         //  options.addArguments("--no-startup-window");
         //options.addArguments("--hide");
+
+
+        options.addArguments("disable-plugins");
+        options.addArguments("disable-extensions");
         options.addArguments("--disable-internal-flash");
         options.addArguments("--disable-bundled-ppapi-flash");
         options.addArguments("--disable-plugins-discovery");
@@ -194,8 +197,9 @@ public class udemyMainTest {
         // options.addArguments("--load-extension=C:\\Users\\haroo\\Desktop\\jikbjpjgjmmdhcmlagappehlpiljoaop\\0.5_0\\");
         //options.addArguments("--load-extension=C:\\Users\\haroo\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\cfhdojbkjhnklbpkdaibdccddilifddb\\1.9.1_0\\");(
         DesiredCapabilities capabilities = new DesiredCapabilities();
+        capabilities.setCapability("chrome.switches", Arrays.asList("--disable-extensions"));
         //  capabilities.setCapability(ChromeOptions.options);
-        driver = new ChromeDriver(options);
+          driver = new ChromeDriver(options);
          courseName = new File("courseName.txt");
 
 

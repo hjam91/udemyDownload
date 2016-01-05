@@ -14,7 +14,8 @@ public class udemyHomePageRepo {
 
     WebDriver driver;
 
-    @FindBy(partialLinkText = "Sign Up")
+    @FindBy(xpath = ".//*[@id='udemy']/div[2]/div[2]/div[2]/a[3]")
+    //@FindBy(partialLinkText = "Sign Up")
     WebElement signUpButton;
 
     @FindBy(id="id_fullname")
