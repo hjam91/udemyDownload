@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/udemyDownload/src"/>
+	<classpathentry kind="lib" path="/udemyDownload/JARS" sourcepath="/udemyDownload/JARS"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
