@@ -39,6 +39,7 @@ public class udemyMainTest {
     public static String resume;
     public static File countStore;
     public static File courseName;
+    public static String USB ="";
 
 
     public static void main(String[]args) throws IOException, ParseException, InterruptedException {
@@ -62,7 +63,7 @@ public class udemyMainTest {
 
 
     public static void resumeDownload() throws IOException {
-        countStore = new File("count.txt");
+        countStore = new File(USB+"count.txt");
 
       //  System.out.println(countStore);
         if(countStore.exists()) {
@@ -77,18 +78,18 @@ public class udemyMainTest {
 
             if (resume.contains("Y") || resume.contains("y")) {
 
-                FileReader fileReader = new FileReader("courseName.txt");
+                FileReader fileReader = new FileReader(USB+"courseName.txt");
                 BufferedReader bufferedReader = new BufferedReader(fileReader);
                 URL = bufferedReader.readLine();
 
-                FileReader fileReader2 = new FileReader("count.txt");
+                FileReader fileReader2 = new FileReader(USB+"count.txt");
                 BufferedReader bufferedReader2 = new BufferedReader(fileReader2);
 
                 count = Integer.parseInt(bufferedReader2.readLine());
             } else {
 
-                new File("count.txt").delete();
-                new File("courseName.txt").delete();
+                new File(USB+"count.txt").delete();
+                new File(USB+"courseName.txt").delete();
 
                 System.out.println("First, enter the Udemy Course URL: ");
                 Scanner in2 = new Scanner(System.in);
@@ -200,7 +201,7 @@ public class udemyMainTest {
         capabilities.setCapability("chrome.switches", Arrays.asList("--disable-extensions"));
         //  capabilities.setCapability(ChromeOptions.options);
           driver = new ChromeDriver(options);
-         courseName = new File("courseName.txt");
+         courseName = new File(USB+"courseName.txt");
 
 
 
@@ -223,7 +224,12 @@ public class udemyMainTest {
 
                 Thread.sleep(3000);
                 System.out.println("1");
+
+                udemyCoursePreviewPageRepo coursePreview = new udemyCoursePreviewPageRepo(driver);
+                coursePreview.FreePreviewButtonElement().click();
+
                 courseHomePage.fillOutRegInfo();
+
 
                 Thread.sleep(3000);
                 //pageMove(courseHomePage.SumbitButtonElement().click(),Psg2.class);
@@ -232,12 +238,12 @@ public class udemyMainTest {
 
             Thread.sleep(3000);
             System.out.println("Success Phantom 1");
-            udemyCoursePreviewPageRepo coursePreview = new udemyCoursePreviewPageRepo(driver);
+
 
             System.out.println(driver.getCurrentUrl());
 
             //  assertEquals(coursePreview.FreePreviewButtonElement().getText(), "Start free preview");
-            assertEquals(coursePreview.TakeCourseButtonElement().getText(), "Take This Course");
+         //   assertEquals(coursePreview.TakeCourseButtonElement().getText(), "Take This Course");
 
             Thread.sleep(2000);
             System.out.println("Success Phantom 2");
@@ -245,7 +251,7 @@ public class udemyMainTest {
             System.out.println(courseName);
             //  String courseTitle= coursePreview.getCourseTitle().getText();
 
-            coursePreview.FreePreviewButtonElement().click();
+          //  coursePreview.FreePreviewButtonElement().click();
             //   udemyCourseVideo.courseName = coursePreview.getCourseTitle().getText();
 
 

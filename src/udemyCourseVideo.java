@@ -334,8 +334,8 @@ public class udemyCourseVideo {
         br2.close();
         fin.delete();
         fin2.delete();
-        new File("count.txt").delete();
-        new File("coureName.txt").delete();
+        new File(CourseFolderLocation+ "count.txt").delete();
+        new File(CourseFolderLocation+ "coureName.txt").delete();
         /*udemyMainTest.countStore.delete();
         udemyMainTest.courseName.delete();*/
     }
@@ -365,8 +365,8 @@ public class udemyCourseVideo {
             if (!(isTimeUp(count))){
                 count++;
 
-                new File("count.txt").delete();
-                File countStore = new File("count.txt");
+                new File(CourseFolderLocation+"count.txt").delete();
+                File countStore = new File(CourseFolderLocation+"count.txt");
                 FileWriter countStoreFile = new FileWriter(countStore,false);
                 countStoreFile.write(Integer.toString(count));
                 countStoreFile.close();
@@ -374,9 +374,9 @@ public class udemyCourseVideo {
                 return updateCount(count);
             }
 
-            new File("count.txt").delete();
+            new File(CourseFolderLocation+"count.txt").delete();
 
-            File countStore = new File("count.txt");
+            File countStore = new File(CourseFolderLocation+"count.txt");
             FileWriter countStoreFile = new FileWriter(countStore,false);
             countStoreFile.write(Integer.toString(count));
             countStoreFile.close();

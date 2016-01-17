@@ -86,7 +86,7 @@ public class udemyHomePageRepo {
         int idx1 = new Random().nextInt(name.length);
         String lastName = (name[idx1]);
 
-        SignUpLinkElement().click();
+      //  SignUpLinkElement().click();
         FullNameElement().sendKeys(firstName+" "+lastName);
         EmailFieldElement().sendKeys(firstName+"."+lastName+ "@gmail.com");
         PassFieldElement().sendKeys(RandomizerpassWord());
