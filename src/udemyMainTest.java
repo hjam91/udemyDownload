@@ -200,8 +200,7 @@ public class udemyMainTest {
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("chrome.switches", Arrays.asList("--disable-extensions"));
         //  capabilities.setCapability(ChromeOptions.options);
-        //  driver = new ChromeDriver(options);
-        driver = new FirefoxDriver();
+          driver = new ChromeDriver(options);
          courseName = new File(USB+"courseName.txt");
 
 
