@@ -17,7 +17,8 @@ public class udemyCoursePreviewPageRepo {
     WebElement takeCourseButton;
 
     //@FindBy(linkText = "Start Free Preview")
-    @FindBy(xpath= "//*[starts-with(@data-purpose,\"start-free-preview\")]")
+    //@FindBy(xpath= "//*[starts-with(@data-purpose,\"start-free-preview\")]")
+    @FindBy(xpath = "//*[starts-with(@data-purpose,\"require-auth\")]")
     WebElement freePreviewButton;
 
 
